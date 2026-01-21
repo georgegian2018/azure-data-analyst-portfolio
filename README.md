@@ -3,6 +3,12 @@
 **Repository:** `azure-data-analyst-portfolio`  
 A practical, job-focused portfolio showcasing **data analysis** skills using **Microsoft Azure**, **Power BI**, **SQL**, and **Python**.
 
+![Azure](https://img.shields.io/badge/Azure-Data%20Analytics-blue?logo=microsoftazure)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow?logo=powerbi)
+![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20EDA-blue?logo=python)
+![SQL](https://img.shields.io/badge/SQL-Analysis-lightgrey?logo=postgresql)
+![Status](https://img.shields.io/badge/Status-Active%20Development-green)
+
 ---
 
 ## 🎯 Goal
