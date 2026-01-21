@@ -235,10 +235,5 @@ Inspired by open knowledge engineering and long-term documentation practices.
 
 
 ## 📜 License
-This project is licensed under the [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).
-
----
-## 📜 License
-
-This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0)](./LICENSE).
+This project is licensed under the [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/) or [Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0)](./License.md).
 
