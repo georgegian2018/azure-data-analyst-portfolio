@@ -224,7 +224,6 @@ feel free to reach out via GitHub.
 
 **Last updated:** January 2026
 
-
 ---
 
 ## 🙌 Acknowledgments
@@ -232,8 +231,8 @@ feel free to reach out via GitHub.
 Built and maintained by [Georgios Giannakopoulos](https://github.com/georgiosgiannakopoulos).  
 Inspired by open knowledge engineering and long-term documentation practices.
 
-
+---
 
 ## 📜 License
-This project is licensed under the [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/) or [Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0)](./License.md).
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0)](./License.md).
 
