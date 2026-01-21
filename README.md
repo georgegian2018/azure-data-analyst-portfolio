@@ -39,6 +39,129 @@ This portfolio demonstrates my ability to:
 ---
 
 ## 📂 Repository Structure
+```text
+azure-data-analyst-portfolio/
+│
+├── 00_README_ASSETS/ # Images used in README (dashboards, diagrams)
+├── 01_PowerBI_Dashboards/ # Power BI projects (PBIX + screenshots)
+├── 02_SQL_Analysis/ # SQL queries & analysis tasks
+├── 03_Python_Analysis/ # Jupyter notebooks for EDA & cleaning
+├── 04_Azure_Data_Samples/ # Azure-flavoured demos (optional)
+├── 05_Reports/ # PDF/MD executive-style summaries
+└── datasets/ # Public or synthetic datasets (where allowed)
+
+```
+
+
+---
+
+## ✅ Featured Projects
+
+### 1) Power BI — KPI Dashboard (PL-300 aligned)
+**Location:** `01_PowerBI_Dashboards/`  
+**What it shows:**
+- Data modeling (star schema where applicable)
+- Key measures (DAX): revenue, trends, YoY/MoM, segmentation
+- Clean visual storytelling + drill-down navigation
+
+**Deliverables:**
+- `.pbix` file
+- Dashboard screenshots
+- 1-page insight summary (Markdown/PDF)
+
+---
+
+### 2) SQL — Business Questions & KPI Queries
+**Location:** `02_SQL_Analysis/`  
+**What it shows:**
+- Querying for insights: sales, retention, churn, cohorts
+- Intermediate SQL: joins, CTEs, window functions
+- Clean query formatting and documentation
+
+**Deliverables:**
+- `.sql` scripts
+- Query outputs (sample tables)
+- Short insight notes
+
+---
+
+### 3) Python — Data Cleaning + Exploratory Data Analysis (EDA)
+**Location:** `03_Python_Analysis/`  
+**What it shows:**
+- Reproducible analysis in notebooks
+- Cleaning pipelines (missing values, duplicates, outliers)
+- EDA charts and insights using Pandas + Matplotlib
+
+**Deliverables:**
+- `.ipynb` notebooks
+- Exported figures
+- Summary of findings
+
+---
+
+## ☁️ Azure Component (Optional but Recommended)
+
+**Location:** `04_Azure_Data_Samples/`  
+Examples of Azure-based workflows (as I build them):
+- Azure Storage (Blob) → Power BI
+- Azure SQL Database → Power BI
+- Basic pipeline concepts aligned with DP-900 / DP-203
+
+This section focuses on **simple, realistic, junior-friendly Azure scenarios**.
+
+---
+
+## 🧭 How to Navigate This Repo
+
+- Start with **Power BI dashboards**: `01_PowerBI_Dashboards/`
+- Review **SQL scripts**: `02_SQL_Analysis/`
+- Explore **Python notebooks**: `03_Python_Analysis/`
+- Read executive-style summaries: `05_Reports/`
+
+---
+
+## 🧪 Tools & Tech
+
+- **Power BI Desktop**
+- **SQL** (Azure SQL / PostgreSQL / SQL Server syntax depending on project)
+- **Python** (Pandas, NumPy, Matplotlib)
+- **Git / GitHub**
+- **Azure concepts** (AZ-900 / DP-900 aligned)
+
+---
+
+## 📈 What I’m Building Next
+
+- A complete **Power BI project** with dataset + DAX measures + report narrative
+- A **SQL mini-pack** with 10 business questions + clean solutions
+- A **Python EDA pack** with a reusable cleaning template
+- A simple **Azure SQL → Power BI** pipeline demo
+
+---
+
+## 📌 Notes on Datasets
+
+- Datasets are either **public**, **open-license**, or **synthetic**.
+- If a dataset has licensing restrictions, I will include:
+  - Source link
+  - Licensing note
+  - Instructions to download independently
+
+---
+
+## 🤝 Contact / Collaboration
+
+If you’re a recruiter or hiring manager and would like:
+- a quick walkthrough of a project,
+- a Power BI demo,
+- or a summary of how I built a dashboard end-to-end,
+
+feel free to reach out via GitHub.
+
+---
+
+**Last updated:** January 2026
+
 
 
 
