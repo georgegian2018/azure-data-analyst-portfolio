@@ -2,11 +2,13 @@
 
 ![Azure](https://img.shields.io/badge/Azure-Data%20Analytics-blue?logo=microsoftazure)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow?logo=powerbi)
-![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20EDA-blue?logo=python)
 ![SQL](https://img.shields.io/badge/SQL-Analysis-lightgrey?logo=postgresql)
+
 ![EDA](https://img.shields.io/badge/EDA-Python%20Notebooks-success)
-![Status](https://img.shields.io/badge/Status-Active%20Development-green)
+![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20EDA-blue?logo=python)
 ![Data Cleaning](https://img.shields.io/badge/Data-Cleaning%20Complete-brightgreen)
+![Status](https://img.shields.io/badge/Status-Active%20Development-green)
+
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)
 ![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-blue)
 ![DP-900](https://img.shields.io/badge/DP--900-Data%20Fundamentals-lightblue)
