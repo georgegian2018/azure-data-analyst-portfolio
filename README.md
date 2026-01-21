@@ -28,17 +28,16 @@ This portfolio demonstrates my ability to:
 
 ## 📜 Certifications (Azure Track)
 
-- **AZ-900** — Microsoft Azure Fundamentals  
-- **DP-900** — Microsoft Azure Data Fundamentals *(in progress / planned)*  
-- **PL-300** — Microsoft Power BI Data Analyst Associate *(in progress / planned)*  
-- **DP-203** — Microsoft Azure Data Engineer Associate *(planned)*  
-- **DP-100** — Microsoft Azure Data Scientist Associate *(planned)*  
+- **DP-900** — Microsoft Azure Data Fundamentals *(targeted)*
+- **PL-300** — Microsoft Power BI Data Analyst Associate *(targeted)*
+- **DP-203** — Microsoft Azure Data Engineer Associate *(future)*
+- **DP-100** — Microsoft Azure Data Scientist Associate *(future)*
 
 > Note: This repository is structured to grow from **Data Analyst** → **Analytics Engineer** → **Data/ML roles** over time.
 
 ---
 
-## 📂 Repository Structure
+## 📂 Repository Structure (Overview)
 ```text
 azure-data-analyst-portfolio/
 │
@@ -51,7 +50,7 @@ azure-data-analyst-portfolio/
 └── datasets/ # Public or synthetic datasets (where allowed)
 
 ```
-## 📂 Repository Structure in more detail
+## 📂 Repository Structure (Detailed)
 ```text
 azure-data-analyst-portfolio/
 │
