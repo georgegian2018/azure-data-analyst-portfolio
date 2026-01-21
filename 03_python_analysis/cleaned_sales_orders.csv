@@ -1,0 +1,6 @@
+order_id,order_date,ship_date,customer_id,customer_name,segment,region,category,sub_category,product_name,sales,quantity,discount,profit
+ORD-1000,2023-01-01,2023-01-03,CUST-39,Diana,Consumer,East,Technology,Tables,Product B,455.75,2,0.0,157.92
+ORD-1001,2023-01-02,2023-01-04,CUST-29,Fiona,Home Office,South,Technology,Tables,Product A,367.66,1,0.2,18.27
+ORD-1002,2023-01-03,2023-01-05,CUST-15,Helen,Corporate,West,Furniture,Chairs,Product C,379.6,7,0.05,79.52
+ORD-1003,2023-01-04,2023-01-06,CUST-43,Diana,Consumer,North,Office Supplies,Accessories,Product D,90.04,5,0.2,24.68
+ORD-1004,2023-01-05,2023-01-07,CUST-8,Fiona,Home Office,South,Office Supplies,Phones,Product A,69.34,1,0.05,185.17
