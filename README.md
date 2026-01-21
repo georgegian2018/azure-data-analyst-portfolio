@@ -11,7 +11,7 @@
 ![PL-300](https://img.shields.io/badge/PL--300-Power%20BI%20Analyst-yellow)
 ![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey)
 
-
+---
 **Repository:** `azure-data-analyst-portfolio`  
 A practical, job-focused portfolio showcasing **data analysis** skills using **Microsoft Azure**, **Power BI**, **SQL**, and **Python**.
 ---
