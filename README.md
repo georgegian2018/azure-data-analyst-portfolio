@@ -1,7 +1,7 @@
 # Azure Data Analyst Portfolio
 
 ![Azure](https://img.shields.io/badge/Azure-Data%20Analytics-blue?logo=microsoftazure)
-![Data Analytics](https://img.shields.io/badge/Data-Analytics-informational)
+![Business Analytics](https://img.shields.io/badge/Business-Analytics-informational)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow?logo=powerbi)
 ![SQL](https://img.shields.io/badge/SQL-Analysis-lightgrey?logo=postgresql)
 ![Python](https://img.shields.io/badge/Python-Analytics-blue?logo=python)
