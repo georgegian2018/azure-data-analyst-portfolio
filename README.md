@@ -6,6 +6,8 @@
 ![SQL](https://img.shields.io/badge/SQL-Analysis-lightgrey?logo=postgresql)
 ![EDA](https://img.shields.io/badge/EDA-Python%20Notebooks-success)
 ![Status](https://img.shields.io/badge/Status-Active%20Development-green)
+![Data Cleaning](https://img.shields.io/badge/Data-Cleaning%20Complete-brightgreen)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)
 ![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-blue)
 ![DP-900](https://img.shields.io/badge/DP--900-Data%20Fundamentals-lightblue)
 ![PL-300](https://img.shields.io/badge/PL--300-Power%20BI%20Analyst-yellow)
