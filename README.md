@@ -51,7 +51,51 @@ azure-data-analyst-portfolio/
 └── datasets/ # Public or synthetic datasets (where allowed)
 
 ```
+## 📂 Repository Structure in more detail
+```text
+azure-data-analyst-portfolio/
+│
+├── README.md
+│
+├── datasets/
+│   ├── README.md
+│   └── sample_datasets/
+│
+├── 01_powerbi_dashboards/
+│   ├── README.md
+│   ├── sales_performance_dashboard/
+│   │   ├── sales_dashboard.pbix
+│   │   └── screenshots/
+│   │       ├── overview.png
+│   │       └── kpis.png
+│   └── customer_insights_dashboard/
+│
+├── 02_sql_analysis/
+│   ├── README.md
+│   ├── sales_analysis.sql
+│   ├── customer_retention.sql
+│   └── README_queries.md
+│
+├── 03_python_analysis/
+│   ├── README.md
+│   ├── eda_sales.ipynb
+│   ├── data_cleaning.ipynb
+│   └── utils/
+│
+├── 04_azure_data_projects/
+│   ├── README.md
+│   ├── azure_sql_to_powerbi/
+│   │   ├── architecture.png
+│   │   └── setup_notes.md
+│
+├── 05_reports/
+│   ├── README.md
+│   ├── executive_summary.md
+│   └── sales_insights_report.pdf
+│
+└── .gitignore
 
+```
 
 ---
 
@@ -163,50 +207,7 @@ feel free to reach out via GitHub.
 **Last updated:** January 2026
 
 ---
-```text
-azure-data-analyst-portfolio/
-│
-├── README.md
-│
-├── datasets/
-│   ├── README.md
-│   └── sample_datasets/
-│
-├── 01_powerbi_dashboards/
-│   ├── README.md
-│   ├── sales_performance_dashboard/
-│   │   ├── sales_dashboard.pbix
-│   │   └── screenshots/
-│   │       ├── overview.png
-│   │       └── kpis.png
-│   └── customer_insights_dashboard/
-│
-├── 02_sql_analysis/
-│   ├── README.md
-│   ├── sales_analysis.sql
-│   ├── customer_retention.sql
-│   └── README_queries.md
-│
-├── 03_python_analysis/
-│   ├── README.md
-│   ├── eda_sales.ipynb
-│   ├── data_cleaning.ipynb
-│   └── utils/
-│
-├── 04_azure_data_projects/
-│   ├── README.md
-│   ├── azure_sql_to_powerbi/
-│   │   ├── architecture.png
-│   │   └── setup_notes.md
-│
-├── 05_reports/
-│   ├── README.md
-│   ├── executive_summary.md
-│   └── sales_insights_report.pdf
-│
-└── .gitignore
 
-```
 
 
 # 📜 License
